@@ -19,7 +19,6 @@ dotfiles_files:
 #  - .osx
 
 homebrew_installed_packages:
-  - ansible
   - bash-completion
   - git
   - htop
