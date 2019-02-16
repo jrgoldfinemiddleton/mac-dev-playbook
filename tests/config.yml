@@ -1,3 +1,5 @@
+dotfiles_repo: https://github.com/jrgoldfinemiddleton/dotfiles.git
+
 homebrew_installed_packages:
   - autoconf
   - bash-completion
