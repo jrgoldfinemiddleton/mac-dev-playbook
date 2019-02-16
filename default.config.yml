@@ -26,6 +26,7 @@ homebrew_installed_packages:
   - iperf
   - nmap
   - openssl
+  - tmux
   - vagrant-completion
   - wget
 
