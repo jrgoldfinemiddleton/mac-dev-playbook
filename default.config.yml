@@ -21,7 +21,9 @@ dotfiles_files:
 homebrew_installed_packages:
   - bash-completion
   - git
+  - gnupg
   - htop
+  - jq
   - iperf
   - nmap
   - openssl
